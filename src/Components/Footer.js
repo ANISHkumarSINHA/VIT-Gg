@@ -36,7 +36,7 @@ export default function Footer() {
                       color: "black",
                     }}
                   >
-                    &nbsp;Grade Guru
+                    &nbsp;Vcare GPA Guide
                   </span>
                 </Link>
                 <p className="my-4 p-logo">
