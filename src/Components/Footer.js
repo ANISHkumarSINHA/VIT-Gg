@@ -60,7 +60,7 @@ export default function Footer() {
                 </p>
                 <p>
                   <Link
-                    to="https://github.com/Vishal-1004/VIT-Grade-Guru"
+                    to="https://github.com/ANISHkumarSINHA/VIT-Gg"
                     target="_blank"
                   >
                     Source Code
