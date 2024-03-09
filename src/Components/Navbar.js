@@ -24,7 +24,7 @@ const Navbar = () => {
               height="26"
               className="d-inline-block align-text-top"
             />
-            <span className="logo-name">&nbsp;Grade Guru</span>
+            <span className="logo-name">&nbsp;Vcare GPA Guide</span>
           </Link>
           <button
             className="navbar-toggler"
